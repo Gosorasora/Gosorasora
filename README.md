@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Ko-DongHyeon&fontSize=90&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=_FFFFF&height=200&section=header&text=Ko-DongHyeon&fontSize=90&desc=iOS Develper&descSize=30&animation=fadeIn"/>
 
 <!--
 **Gosorasora/Gosorasora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
