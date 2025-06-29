@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Ko-DongHyeon&fontSize=90&desc=A%20iOS%20Develper&descSize=30&animation=fadeIn&descAlign=70&descAlignY=85">
-<br>
-
 <h2 align="center">👇 Follow Me Here!👇</h2>
 <p align="center">
   <a href="https://velog.io/@hanser0204"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hanser0204"/></a>&nbsp
