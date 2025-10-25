@@ -1,17 +1,37 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Donghyeon's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-<h2 align="center">👇 Follow Me Here!👇</h2>
+## history
+동국대학교 공과대학 컴퓨터공학과 학부 재학(2021.03 ~ )<br>
+동국대학교 프로그래밍 중앙동아리 CAPS 부회장 (2022.03 ~ 2023.03)<br>
+동국대학교 프로그래밍 중앙동아리 CAPS 홈페이지관리부 부장 (2022.03. ~ 2023.09)<br>
+Cloud Club 1기 member (2022.03 ~ 2023.09)<br>
+동국대학교 Computer Security & Distributed Computing Lab 학부연구생 (2025.04 ~ )
+Amazon Cloud Club 1기 member (2025.07 ~)<br>
+
+<h2 align="center"> 🛠 My Tech Skills 🛠 </h2>
+<div align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
+<div align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;"/></div>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+## 👇 Follow Me Here!👇
 <p align="center">
   <a href="https://velog.io/@hanser0204"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hanser0204"/></a>&nbsp
   <a href="https://www.instagram.com/ko._.sora/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ko._.sora/"/></a>&nbsp
   <a href="mailto:kodh0204@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kodh0204@gmail.com"/></a>
   
 <br>
-<br>
 
-<h2 align="center"> 🛠 My Tech Skills 🛠 </h2>
-<div align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
-<div align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;"/></div>
-
-<br>
-<br>
+## 🏆 Award
+<div align="center">
+2021.07.26 동국대학교 공과대학 학기 우등생<br>
+2022.01.18 동국대학교 공과대학 학기 우등생<br>
+2022.01.18 동국대학교 공과대학 학기 우등생<br>
+2022.12.30 U-LINC 협력사업 경진대회 장려상 Team Leader<br>
+2025.07.31 동국대학교 공과대학 학기 우등생
