@@ -9,10 +9,12 @@ Cloud Club 1기 member (2022.03 ~ 2023.09)<br>
 Amazon Cloud Club 1기 member (2025.07 ~)<br>
 
 ## 🛠 My Tech Skills 🛠
+<p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />&nbsp;
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;"/>&nbsp;
+</p>
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-#009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>&nbsp;
