@@ -8,9 +8,10 @@ Cloud Club 1기 member (2022.03 ~ 2023.09)<br>
 동국대학교 Computer Security & Distributed Computing Lab 학부연구생 (2025.04 ~ )
 Amazon Cloud Club 1기 member (2025.07 ~)<br>
 
-<h2 align="center"> 🛠 My Tech Skills 🛠 </h2>
-<div align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
-<div align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;"/></div>
+## 🛠 My Tech Skills 🛠 </h2>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;"/><br>
+<img src="https://img.shields.io/badge/FastAPi-#009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
