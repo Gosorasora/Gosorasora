@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Donghyeon's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-## history
+## 🖊️ history
 동국대학교 공과대학 컴퓨터공학과 학부 재학(2021.03 ~ )<br>
 동국대학교 프로그래밍 중앙동아리 CAPS 부회장 (2022.03 ~ 2023.03)<br>
 동국대학교 프로그래밍 중앙동아리 CAPS 홈페이지관리부 부장 (2022.03. ~ 2023.09)<br>
 Cloud Club 1기 member (2022.03 ~ 2023.09)<br>
-동국대학교 Computer Security & Distributed Computing Lab 학부연구생 (2025.04 ~ )
+동국대학교 Computer Security & Distributed Computing Lab 학부연구생 (2025.04 ~ )<br>
 Amazon Cloud Club 1기 member (2025.07 ~)<br>
 
 ## 🛠 My Tech Skills 🛠
