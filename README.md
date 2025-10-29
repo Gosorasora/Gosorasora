@@ -11,9 +11,7 @@ Amazon Cloud Club 1기 member (2025.07 ~)<br>
 ## 🛠 My Tech Skills 🛠
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;"/>&nbsp;
-  <img src="https://techstack-generator.vercel.app/google-cloud-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;"/>&nbsp;
-</p>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;"/>&nbsp;</p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>&nbsp;
