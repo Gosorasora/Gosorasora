@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Donghyeon's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-## 🖊️ history
+<h3 align="center">🖊️ history 🖊️</h3>
 <div align="center">
 동국대학교 공과대학 컴퓨터공학과 학부 재학(2021.03 ~ )<br>
 동국대학교 프로그래밍 중앙동아리 CAPS 부회장 (2022.03 ~ 2023.03)<br>
@@ -10,7 +10,7 @@ Cloud Club 1기 member (2022.03 ~ 2023.09)<br>
 Amazon Cloud Club 1기 member (2025.07 ~)<br>
 </div>
 
-## 🛠 My Tech Skills 🛠
+<h3 align="center">🛠 My Tech Skills 🛠</h3>
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />&nbsp;
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;"/>&nbsp;</p>
@@ -27,7 +27,7 @@ Amazon Cloud Club 1기 member (2025.07 ~)<br>
   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white"/>&nbsp;
 </p>
 
-## 🏆 Award 
+<h3 align="center">🏆 Award 🏆</h3>
 <div align="center">
 2021.07.26 동국대학교 공과대학 학기 우등생<br>
 2022.01.18 동국대학교 공과대학 학기 우등생<br>
@@ -39,7 +39,7 @@ Amazon Cloud Club 1기 member (2025.07 ~)<br>
 2025.10.18 Google Cloud Fundamentals: Core Infrastructure 수료<br>
 </div>
 
-## 👇 Follow Me Here!👇
+<h3 align="center">👇 Follow Me Here!👇</h3>
 <p align="center">
   <a href="https://velog.io/@hanser0204"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hanser0204"/></a>&nbsp
   <a href="https://www.instagram.com/ko._.sora/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ko._.sora/"/></a>&nbsp
