@@ -2,12 +2,13 @@
 
 <h3 align="center">🖊️ history 🖊️</h3>
 <div align="center">
-동국대학교 공과대학 컴퓨터공학과 학부 재학(2021.03 ~ )<br>
+동국대학교 공과대학 컴퓨터공학과 학부 재학 (2021.03 ~ )<br>
 동국대학교 프로그래밍 중앙동아리 CAPS 부회장 (2022.03 ~ 2023.03)<br>
 동국대학교 프로그래밍 중앙동아리 CAPS 홈페이지관리부 부장 (2022.03. ~ 2023.09)<br>
 Cloud Club 1기 member (2022.03 ~ 2023.09)<br>
 동국대학교 Computer Security & Distributed Computing Lab 학부연구생 (2025.04 ~ )<br>
 Amazon Cloud Club 1기 member (2025.07 ~)<br>
+Google Cloud Fundamentals: Core Infrastructure 수료 (2025.10.18) <br>
 </div>
 
 <h3 align="center">🛠 My Tech Skills 🛠</h3>
@@ -35,8 +36,6 @@ Amazon Cloud Club 1기 member (2025.07 ~)<br>
 2025.07.31 동국대학교 공과대학 학기 우등생<br>
 <br>
 2022.12.30 U-LINC 협력사업 어드베처디자인 경진대회 장려상 Team Leader<br>
-<br>
-2025.10.18 Google Cloud Fundamentals: Core Infrastructure 수료<br>
 </div>
 
 <h3 align="center">👇 Follow Me Here!👇</h3>
