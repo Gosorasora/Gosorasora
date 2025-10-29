@@ -14,7 +14,7 @@ Amazon Cloud Club 1기 member (2025.07 ~)<br>
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />&nbsp;
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;"/>&nbsp;</p>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
@@ -27,21 +27,22 @@ Amazon Cloud Club 1기 member (2025.07 ~)<br>
   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white"/>&nbsp;
 </p>
 
-## 🏆 Award 
+## 🏆 Award 
 <div align="center">
 2021.07.26 동국대학교 공과대학 학기 우등생<br>
 2022.01.18 동국대학교 공과대학 학기 우등생<br>
 2022.01.18 동국대학교 공과대학 학기 우등생<br>
 2025.07.31 동국대학교 공과대학 학기 우등생<br>
-
+<br>
 2022.12.30 U-LINC 협력사업 어드베처디자인 경진대회 장려상 Team Leader<br>
-
+<br>
 2025.10.18 Google Cloud Fundamentals: Core Infrastructure 수료<br>
+</div>
 
 ## 👇 Follow Me Here!👇
 <p align="center">
-  <a href="https://velog.io/@hanser0204"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hanser0204"/></a>&nbsp
-  <a href="https://www.instagram.com/ko._.sora/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ko._.sora/"/></a>&nbsp
-  <a href="mailto:kodh0204@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kodh0204@gmail.com"/></a>
-  
+  <a href="https://velog.io/@hanser0204"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hanser0204"/></a>&nbsp
+  <a href="https://www.instagram.com/ko._.sora/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ko._.sora/"/></a>&nbsp
+  <a href="mailto:kodh0204@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kodh0204@gmail.com"/></a>
+  
 <br>
