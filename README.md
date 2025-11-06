@@ -35,7 +35,7 @@ Google Cloud Fundamentals: Core Infrastructure 수료 (2025.10.18) <br>
 2022.01.18 동국대학교 공과대학 학기 우등생<br>
 2025.07.31 동국대학교 공과대학 학기 우등생<br>
 <br>
-2022.12.30 U-LINC 협력사업 어드베처디자인 경진대회 장려상 Team Leader<br>
+2022.12.30 U-LINC 협력사업 어드벤처디자인 경진대회 장려상 Team Leader<br>
 </div>
 
 <h3 align="center">👇 Follow Me Here!👇</h3>
