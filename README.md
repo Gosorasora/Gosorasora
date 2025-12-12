@@ -9,7 +9,8 @@ Cloud Club 1기 member (2022.03 ~ 2023.09)<br>
 동국대학교 Computer Security & Distributed Computing Lab 학부연구생 (2025.04 ~ )<br>
 Amazon Cloud Club 1기 member (2025.07 ~)<br>
 Google Cloud Fundamentals: Core Infrastructure 수료 (2025.10.18) <br>
-SoftBank Hackathon 2025 (2024.11.08 ~ 2024.11.09)
+SoftBank Hackathon 2025 Preliminary (2024.11.08 ~ 2024.11.09)
+SoftBank Hackathon 2025 Fina; (2024.12.06 ~ 2024.12.07)
 </div>
 
 <h3 align="center">🛠 My Tech Skills 🛠</h3>
