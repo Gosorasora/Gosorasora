@@ -66,9 +66,3 @@
   <a href="https://github.com/spinframework/spin-python-sdk/pull/126">#126</a> · 
   <a href="https://github.com/spinframework/spin-python-sdk/pull/124">#124</a>
 </p>
-
----
-
-<p align="center">
-  <b>📄 자세한 이력은 <a href="https://gosorasora.github.io">포트폴리오</a>에서 확인하세요!</b>
-</p>
